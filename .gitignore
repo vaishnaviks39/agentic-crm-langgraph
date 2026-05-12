@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+crm_memory.db
+credentials.json
+token.json
+test_gmail.py
